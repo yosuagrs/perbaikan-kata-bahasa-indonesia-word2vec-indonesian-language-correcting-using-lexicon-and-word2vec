@@ -1,0 +1,10 @@
+all about model
+https://gist.github.com/dieka13
+model build
+https://gist.github.com/dieka13/e88b99b86a623c02ddc8023cb03db231
+model datatrain word2vec -> file untuk train word2vec download pada link dibawah dan paste di folder jupyter notebook atau link proyek
+https://dumps.wikimedia.org/idwiki/latest/idwiki-latest-pages-articles.xml.bz2
+genzim model word2vec
+https://radimrehurek.com/gensim/models/word2vec.html
+Kata dasar -> file pada proyek diubah menjadi katadasar.csv
+https://github.com/andrisetiawan/lexicon
